@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/102
     wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
 description: The candy country -- How they ran away.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25165#The-Candy-Country
 gutenberg_issued: '2008-04-25'
 gutenberg_type: Text
 identifiers:
